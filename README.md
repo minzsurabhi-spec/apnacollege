@@ -1,4 +1,4 @@
-# apnacollege-demo
+# apnacollege
 Apna College code
 <br>
 Author-Kaori
